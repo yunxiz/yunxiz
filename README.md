@@ -2,14 +2,9 @@
 
 I build machine learning models for environmental data, from rainfall fields and satellite imagery to land use, and I want that work to help conservation. I'm finishing an M.C.S. at UIUC (May 2027) after a B.S. in Statistics & Computer Science there.
 
-**Looking for full-time roles starting summer 2027** in machine learning, data science, and geospatial work.
-
-[Portfolio](https://YOUR-SITE.vercel.app) · [Email](mailto:aimeezengyunxi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yunxi-zeng-547527265/) · [Résumé](https://YOUR-SITE.vercel.app/assets/resume.pdf)
+[Portfolio]() · [Email](mailto:aimeezengyunxi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yunxi-zeng-547527265/) · [Résumé]()
 
 ### What I'm working on
-
-**Climate downscaling with foundation embeddings.** ERA5 precipitation comes on a 25 km grid, too coarse for a watershed or a farm. My conditional flow matching model sharpens it to about 1.5 km in four 2× steps, using AlphaEarth satellite embeddings to tell it what the land underneath looks like. It produces calibrated ensembles, evaluated with CRPS and spread-skill against 800 m PRISM. The banner above plays the same four steps.
-<sub>PyTorch · Google Earth Engine · xarray/Zarr · Slurm on NCSA Delta AI</sub>
 
 **Biodiversity-aware solar siting.** A binary integer program on a 1 km grid across Texas and Oklahoma that picks solar sites by trading energy against habitat cost for seven wildlife guilds.
 <sub>Python · integer programming · Streamlit</sub>
@@ -17,6 +12,17 @@ I build machine learning models for environmental data, from rainfall fields and
 **Cover crop biomass from space.** A team project estimating Midwest cover crop biomass from Sentinel-1 radar, Sentinel-2/HLS optical imagery, and PRISM climate data, so nobody has to clip plots by hand.
 
 **Causal effects of phthalate mixtures.** Factorial balancing weights for estimating main and interaction effects of co-occurring exposures, extended to multi-level factors and incomplete designs.
+
+## What I've worked
+
+**Climate downscaling with foundation embeddings.** Built a recursive probabilistic downscaling pipeline from 25 km ERA5 precipitation to ~1.5 km resolution using AlphaEarth
+remote-sensing embeddings, validated against 800 m PRISM observations.
+
+**Bird Viewer** A bird sighting platform with a MySQL database and Django REST API: full CRUD, search, and location-based recommendations, with stored procedures and triggers handling account deletion and group lifecycles.
+
+**Hermes** A Django and React platform for real-time financial data, with authentication and interactive charts for equities, crypto, and economic indicators.
+
+<sub>PyTorch · Google Earth Engine · xarray/Zarr · Slurm on NCSA Delta AI</sub>
 
 ### Where I've worked
 
