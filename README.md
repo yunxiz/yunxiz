@@ -12,6 +12,13 @@ I build machine learning models for environmental data, from rainfall fields and
 
 **Causal effects of phthalate mixtures.** Factorial balancing weights for estimating main and interaction effects of co-occurring exposures, extended to multi-level factors and incomplete designs.
 
+## Where I've worked
+
+- **GlobiFYE**, AI Engineer Intern (2026): Built an AI sales intelligence platform with RAG, LangChain, Supabase, and SIP telephony for live calls
+- **Butterflo Inc.**, Machine Learning Intern (2026): Rent prediction on US large-scale rental property data, refined from metro to cluster-level geographies
+- **AIA Group**, Data Science Intern (2025): Built lapse and claims models at ~0.81 AUC, plus an R Shiny app for cash-flow replication
+- **EyeSpy.org**, Volunteer Web Developer (2026): a grant workflow site for a nonprofit serving the blind and low-vision community
+
 ## What I've worked
 
 **Climate downscaling with foundation embeddings.** Built a recursive probabilistic downscaling pipeline from 25 km ERA5 precipitation to ~1.5 km resolution using AlphaEarth
@@ -22,14 +29,6 @@ remote-sensing embeddings, validated against 800 m PRISM observations.
 **Hermes** A Django and React platform for real-time financial data, with authentication and interactive charts for equities, crypto, and economic indicators.
 
 **GIS-based analysis of deforestation and carbon sequestration in endangered Yunnan snub-nosed monkey habitat, Baima Snow Mountain** I mapped deforestation inside the core zone of Baima Snow Mountain Nature Reserve, home of the Yunnan snub-nosed monkey, and [published it as first author](https://www.atlantis-press.com/proceedings/ichess-21/125967065) in 2021.
-
-
-## Where I've worked
-
-- **GlobiFYE**, AI Engineer Intern (2026): an AI sales intelligence platform with RAG, LangChain, Supabase, and SIP telephony for live calls
-- **Butterflo Inc.**, Machine Learning Intern (2026): XGBoost rent prediction, refined from metro to cluster-level geographies
-- **AIA Group**, Data Science Intern (2025): lapse and claims models at ~0.81 AUC, plus an R Shiny app for cash-flow replication
-- **EyeSpy.org**, Volunteer Web Developer (2026): a grant workflow site for a nonprofit serving the blind and low-vision community
 
 
 ### Tools
