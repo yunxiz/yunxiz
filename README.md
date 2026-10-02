@@ -4,7 +4,7 @@ I build machine learning models for environmental data, from rainfall fields and
 
 [Portfolio]() · [Email](mailto:aimeezengyunxi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yunxi-zeng-547527265/) · [Résumé]()
 
-### What I'm working on
+## What I'm working on
 
 **Biodiversity-aware solar siting.** A binary integer program on a 1 km grid across Texas and Oklahoma that picks solar sites by trading energy against habitat cost for seven wildlife guilds.
 <sub>Python · integer programming · Streamlit</sub>
@@ -17,21 +17,22 @@ I build machine learning models for environmental data, from rainfall fields and
 
 **Climate downscaling with foundation embeddings.** Built a recursive probabilistic downscaling pipeline from 25 km ERA5 precipitation to ~1.5 km resolution using AlphaEarth
 remote-sensing embeddings, validated against 800 m PRISM observations.
+<sub>PyTorch · Google Earth Engine · xarray/Zarr · Slurm on NCSA Delta AI</sub>
 
 **Bird Viewer** A bird sighting platform with a MySQL database and Django REST API: full CRUD, search, and location-based recommendations, with stored procedures and triggers handling account deletion and group lifecycles.
 
 **Hermes** A Django and React platform for real-time financial data, with authentication and interactive charts for equities, crypto, and economic indicators.
 
-<sub>PyTorch · Google Earth Engine · xarray/Zarr · Slurm on NCSA Delta AI</sub>
+**GIS-based analysis of deforestation and carbon sequestration in endangered Yunnan snub-nosed monkey habitat, Baima Snow Mountain** I mapped deforestation inside the core zone of Baima Snow Mountain Nature Reserve, home of the Yunnan snub-nosed monkey, and [published it as first author](https://www.atlantis-press.com/proceedings/ichess-21/125967065) in 2021.
 
-### Where I've worked
+
+## Where I've worked
 
 - **GlobiFYE**, AI Engineer Intern (2026): an AI sales intelligence platform with RAG, LangChain, Supabase, and SIP telephony for live calls
 - **Butterflo Inc.**, Machine Learning Intern (2026): XGBoost rent prediction, refined from metro to cluster-level geographies
 - **AIA Group**, Data Science Intern (2025): lapse and claims models at ~0.81 AUC, plus an R Shiny app for cash-flow replication
 - **EyeSpy.org**, Volunteer Web Developer (2026): a grant workflow site for a nonprofit serving the blind and low-vision community
 
-Before all this, I mapped deforestation inside the core zone of Baima Snow Mountain Nature Reserve, home of the Yunnan snub-nosed monkey, and [published it as first author](https://www.atlantis-press.com/proceedings/ichess-21/125967065) in 2021.
 
 ### Tools
 
