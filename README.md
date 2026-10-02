@@ -7,7 +7,6 @@ I build machine learning models for environmental data, from rainfall fields and
 ## What I'm working on
 
 **Biodiversity-aware solar siting.** A binary integer program on a 1 km grid across Texas and Oklahoma that picks solar sites by trading energy against habitat cost for seven wildlife guilds.
-<sub>Python · integer programming · Streamlit</sub>
 
 **Cover crop biomass from space.** A team project estimating Midwest cover crop biomass from Sentinel-1 radar, Sentinel-2/HLS optical imagery, and PRISM climate data, so nobody has to clip plots by hand.
 
@@ -17,7 +16,6 @@ I build machine learning models for environmental data, from rainfall fields and
 
 **Climate downscaling with foundation embeddings.** Built a recursive probabilistic downscaling pipeline from 25 km ERA5 precipitation to ~1.5 km resolution using AlphaEarth
 remote-sensing embeddings, validated against 800 m PRISM observations.
-<sub>PyTorch · Google Earth Engine · xarray/Zarr · Slurm on NCSA Delta AI</sub>
 
 **Bird Viewer** A bird sighting platform with a MySQL database and Django REST API: full CRUD, search, and location-based recommendations, with stored procedures and triggers handling account deletion and group lifecycles.
 
